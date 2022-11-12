@@ -29,3 +29,9 @@
 button + button {
   margin-left: 10px;
 }
+.log {
+  color: #000099;
+  font-weight: bold;
+  font-size: 14px;
+  text-align: center;
+}

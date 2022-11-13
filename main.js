@@ -60,7 +60,7 @@ let options = {
   backgroundColor: "#787878",
 };
 
-const stopWatch = new StopWatch(); //options);
+const stopWatch = new StopWatch(options);
 stopWatch.init();
 stopWatch.nowTime();
 
